@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">PHC albinism awareness placeholder</title>
+  <desc id="desc">Placeholder artwork for an albinism awareness photo.</desc>
+  <rect width="1200" height="900" fill="#faf7ef"/>
+  <circle cx="980" cy="170" r="150" fill="#efe4ca"/>
+  <rect x="110" y="140" width="980" height="620" rx="42" fill="#fffdf8"/>
+  <rect x="180" y="220" width="840" height="180" rx="30" fill="#f4ead5"/>
+  <rect x="180" y="450" width="620" height="30" rx="15" fill="#244d35"/>
+  <rect x="180" y="505" width="700" height="30" rx="15" fill="#a17a2f"/>
+  <rect x="180" y="560" width="480" height="30" rx="15" fill="#d8c690"/>
+  <text x="180" y="660" fill="#1f2a22" font-family="Arial, sans-serif" font-size="40" font-weight="700">Replace with PHC albinism awareness photo</text>
+</svg>
