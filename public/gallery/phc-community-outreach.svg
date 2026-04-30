@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">PHC community outreach placeholder</title>
+  <desc id="desc">Placeholder artwork for a community outreach photo.</desc>
+  <rect width="1200" height="900" fill="#eef4ef"/>
+  <rect x="120" y="120" width="960" height="660" rx="40" fill="#fffdf8"/>
+  <rect x="180" y="200" width="380" height="460" rx="28" fill="#efe4ca"/>
+  <rect x="600" y="220" width="420" height="38" rx="19" fill="#244d35"/>
+  <rect x="600" y="292" width="350" height="38" rx="19" fill="#b2914a"/>
+  <rect x="600" y="364" width="390" height="38" rx="19" fill="#d8c690"/>
+  <rect x="600" y="460" width="340" height="160" rx="28" fill="#e3efe6"/>
+  <text x="180" y="720" fill="#1f2a22" font-family="Arial, sans-serif" font-size="40" font-weight="700">Replace with PHC community outreach photo</text>
+</svg>
