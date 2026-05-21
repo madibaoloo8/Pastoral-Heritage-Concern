@@ -47,7 +47,7 @@ export type GalleryImage = {
 export const siteConfig = {
   name: "Pastoral Heritage Concern",
   shortName: "PHC",
-  url: "https://www.pastoralheritageconcern.org",
+  url: "https://www.pastoralheritageconcern.com",
   logo: "/brand/phc-logo.png",
   location: "Nairobi, Kenya",
   email: "paheritageconcern@gmail.com",
